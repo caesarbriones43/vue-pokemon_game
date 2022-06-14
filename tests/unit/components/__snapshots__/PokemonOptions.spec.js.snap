@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PokemonOptions Component should match whit snapshot 1`] = `
+<div class="options-container">
+  <ul>
+    <div>
+      <li>bulbasaur</li>
+      <li>ivysaur</li>
+      <li>venusaur</li>
+      <li>charmander</li>
+    </div>
+  </ul>
+</div>
+`;

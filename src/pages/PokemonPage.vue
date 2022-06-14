@@ -6,7 +6,7 @@
 
   <div v-else>
     <h1>¿Quién es este Pokémon?</h1>
-    <h2>Puntuación: {{ score }}</h2>
+    <!-- <h2>Puntuación: {{ score }}</h2> -->
     <PokemonImage :pokemonId="pokemon.id" :showPokemon="showPokemon" />
     <PokemonOptions
       :pokemons="pokemonArr"
