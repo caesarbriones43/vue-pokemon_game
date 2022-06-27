@@ -1,5 +1,7 @@
 # 04-pokemon_game
 
+https://vue-pkm.netlify.app/
+
 ## Project setup
 ```
 yarn install
